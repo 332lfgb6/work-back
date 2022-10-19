@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "name": "douyin-back",
+      "script": "production.js",
+      "cwd": "D:projectsworksdouyin-back",
+      "exec_mode": "fork",
+      "max_memory_restart": "1G",
+      "autorestart": true,
+      "node_args": [],
+      "args": [],
+      "env": {}
+    }
+  ]
+}
